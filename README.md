@@ -108,7 +108,7 @@ This testing process follows an **Agile Methodology** to ensure continuous and i
 https://drive.google.com/file/d/1dfvOGUzUoPrdoNFqTfjmlAFEe2dTAHdQ/view?usp=sharing
 ~~~
 
-WritesWave/
+NoteMaster/
 ├── src/
 │   ├── main/
 │   │   ├── java/            
