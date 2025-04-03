@@ -2,10 +2,11 @@
 
 
 ##  Project Overview
+(<img width="935" alt="image" src="https://github.com/user-attachments/assets/92c6621e-5a3c-4708-b4ea-4a2ce8ca1c30" />)
 Note Master is website that Project Overview Note Master is website that Revision Master - Your Study Buddy Struggling to manage your study notes, todo, and revision schedules? Try our AI-driven platform with a proven revision technique to stay organized and stress-free. The website (https://notes-makers.vercel.app/) This test plan outlines the testing approach, scope, objectives, test scenarios, test cases, and defect management for the Note Master Website, a collaborative writing platform. The primary focus is to validate UI, functionality, navigation, security, and performance to ensure all features work as expected.
 
 
-This project focuses on **manual testing** of key modules within the Write Wave Website. The testing process involves verifying core functionalities, UI/UX aspects and system responses.
+This project focuses on **manual testing** of key modules within the Note Master Website. The testing process involves verifying core functionalities, UI/UX aspects and system responses.
 
 ---
 
@@ -104,7 +105,7 @@ This testing process follows an **Agile Methodology** to ensure continuous and i
  https://drive.google.com/drive/folders/1GJwZX_girwMiTizwxBinlNOFAvK7Dwky?usp=sharing 
  
  **Explaination Video link**
-https://drive.google.com/drive/folders/1GJwZX_girwMiTizwxBinlNOFAvK7Dwky?usp=sharing
+https://drive.google.com/file/d/1dfvOGUzUoPrdoNFqTfjmlAFEe2dTAHdQ/view?usp=sharing
 ~~~
 
 WritesWave/
